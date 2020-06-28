@@ -1,0 +1,3 @@
+- manali
+- rishikesh
+- kashmir
